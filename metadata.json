@@ -1,0 +1,9 @@
+{
+  "name": "LiveCap",
+  "description": "A powerful web-based screen recording application for creating professional code explainer videos. Capture your screen, webcam, and audio with customizable overlays, quality settings, and easy-to-use controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
